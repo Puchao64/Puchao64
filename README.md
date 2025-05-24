@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Artur Puchinin
 
-<!--
-**Puchao64/Puchao64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior QA engineer and Web3 enthusiast with a strong focus on automation, real-world testing, and crypto tools.  
+I specialize in Playwright-based UI testing, bot development, and manual QA for dApps and blockchain interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+- JavaScript (Node.js)
+- Playwright (E2E UI Testing)
+- Manual QA / Web3 Testing
+- Bug Reporting (Screenshots, Repro Steps, Markdown Docs)
+- Git / GitHub / Markdown / README structuring
+- Telegram Bot Development (command handling, APIs)
+- REST API Testing (Postman basics)
+- Wallets (MetaMask, Coinbase Wallet, RainbowKit)
+- Web3 platforms (Zealy, Transak, NFT/Bridge/Dapp UI)
+- Trading & Crypto Market Basics
+- CI understanding (GitHub Actions – beginner level)
+- Linux / macOS terminal usage
+
+---
+
+## 📂 Featured Projects
+
+### 🧪 [QA Test for Zealy UI](https://github.com/Puchao64/qa-zealy-autotest)  
+Full UI automation with Playwright: navigating quest pages, verifying elements, and capturing test flow screenshots.
+
+### 🛠️ [Telegram Trading Bot](https://github.com/Puchao64/telegram-trading-bot)  
+Simulates crypto trading in Telegram. Supports commands like `/price`, `/buy`, and `/news` using CoinGecko API.
+
+### 💳 [Transak Payment Flow Test](https://github.com/Puchao64/qa-transak-payment-test)  
+Deep manual QA case for fiat-to-crypto onboarding. Covers dropdown logic, input validation, and wallet connection UI.
+
+---
+
+## 🛰️ Contacts
+
+- Telegram: [@pu_chao](https://t.me/pu_chao)
+- Email: puchinin64@gmail.com
+- Location: Spain → Vietnam soon
+
+---
+
+## 📌 Goals
+
+I'm currently open to freelance and remote QA opportunities — manual or automated — especially in the Web3 space.  
+Focused on building a clean portfolio and delivering fast, accurate test coverage for crypto products.
+
+---
+
+Created for educational and portfolio purposes.
