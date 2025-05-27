@@ -26,7 +26,7 @@ I specialize in Playwright-based UI testing, bot development, and manual QA for 
 🧪 [QA Test for Zealy UI](https://github.com/Puchao64/qa-zealy-autotest)  
 Full UI automation with Playwright: navigating quest pages, verifying elements, and capturing test flow screenshots.
 
-⚙️ [Telegram Trading Bot](https://github.com/Puchao64/telegram-signal-bot)  
+⚙️ [Telegram Trading Bot](https://github.com/Puchao64/telegram-trading-bot)  
 Simulates crypto trading in Telegram. Supports commands like `/price`, `/buy`, and `/news` using CoinGecko API.
 
 💳 [Transak Payment Flow Test](https://github.com/Puchao64/qa-transak-payment-test)  
