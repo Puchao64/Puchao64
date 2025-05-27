@@ -22,20 +22,22 @@ I specialize in Playwright-based UI testing, bot development, and manual QA for 
 
 ---
 
-## 🧩 Featured Projects
+🧩 Featured Projects
 
-🧪 [QA Test for Zealy UI](https://github.com/Puchao64/qa-zealy-autotest)  
+🧪 QA Test for Zealy UI
 Full UI automation with Playwright: navigating quest pages, verifying elements, and capturing test flow screenshots.
 
-⚙️ [Telegram Trading Bot](https://github.com/Puchao64/telegram-signal-bot)  
-Simulates crypto trading in Telegram. Supports commands like `/price`, `/buy`, and `/news` using CoinGecko API.
+⚙️ Telegram Trading Bot
+Simulates crypto trading in Telegram. Supports commands like /price, /buy, and /news using CoinGecko API.
 
-💳 [Transak Payment Flow Test](https://github.com/Puchao64/qa-transak-payment-test)  
+💳 Transak Payment Flow Test
 Deep manual QA case for fiat-to-crypto onboarding. Covers dropdown logic, input validation, and wallet connection UI.
 
-🔐 [Login UI Test (Java)](https://github.com/Puchao64/qa-the-internet-java-autotest)  
+🔐 Login UI Test (Java)
 Java + Selenium WebDriver + JUnit 5. Full automation for the-internet.herokuapp.com/login with screenshots.
 
+🧪 Saucedemo UI Test (Python)
+Python + Selenium + Pytest. Covers login flow, cart operations, sorting, and full checkout. Includes 15 screenshot-backed test cases.
 ---
 
 ## 🛰️ Contacts
