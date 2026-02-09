@@ -44,7 +44,7 @@ Python + Selenium + Pytest. Covers login flow, cart operations, sorting, and ful
 
 - Telegram: [@pu_chao](https://t.me/pu_chao)
 - Email: puchinin64@gmail.com
-- Location: Spain → Vietnam soon
+- Location: Spain 
 
 ---
 
