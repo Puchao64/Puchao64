@@ -24,9 +24,10 @@ Mobile E2E automation for a Web3 app using Appium, validating login flows and us
 https://github.com/Puchao64/qa-zealy-autotest  
 End-to-end UI automation for a Web3 quest platform using Playwright, covering navigation, validation, and user flows.
 
-🔹 **Telegram Trading Bot**  
+🔹 Telegram Trading Bot  
 https://github.com/Puchao64/telegram-trading-bot  
-Telegram bot for crypto price tracking and trading simulation using CoinGecko API.
+Node.js bot for crypto price tracking and trading simulation using CoinGecko API.
+
 ---
 
 ## 🧠 QA Focus
