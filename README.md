@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Artur Puchinin
 
-Junior QA Automation Engineer focused on Web3 applications, UI testing, and real-world user flows.
+QA Automation Engineer focused on Web3 applications, UI testing, and real-world user flows.
 
-I build clean, structured test automation projects using Playwright and TypeScript, with strong attention to validation logic, edge cases, and user behavior.
+I build production-like test automation frameworks using Playwright and TypeScript, covering validation logic, edge cases, and swap flows.
 
 ---
 
@@ -14,20 +14,19 @@ End-to-end UI automation framework for a token swap interface. Covers swap flow,
 
 🔹 **ThetaSwap UI Automation (Playwright)**  
 https://github.com/Puchao64/qa-thetaswap-playwright  
-UI testing of swap interface with focus on core flows and interaction stability.
+Playwright-based UI automation for a Web3 swap interface, covering validation, edge cases, and cross-platform CI execution.
 
 🔹 **1inch Mobile E2E (Appium)**  
 https://github.com/Puchao64/1inch-mobile-e2e  
-Mobile end-to-end testing for crypto app flows using Appium.
+Mobile E2E automation for a Web3 app using Appium, validating login flows and user interactions across platforms.
 
 🔹 **Zealy UI Automation**  
 https://github.com/Puchao64/qa-zealy-autotest  
-Playwright automation for quest-based Web3 platform (navigation, UI validation, flows).
+End-to-end UI automation for a Web3 quest platform using Playwright, covering navigation, validation, and user flows.
 
 🔹 **Telegram Trading Bot**  
 https://github.com/Puchao64/telegram-trading-bot  
-Node.js bot integrating CoinGecko API for crypto price tracking and basic trading simulation.
-
+Telegram bot for crypto price tracking and trading simulation using CoinGecko API.
 ---
 
 ## 🧠 QA Focus
