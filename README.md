@@ -1,58 +1,74 @@
 # 👋 Hi, I'm Artur Puchinin
 
-I'm a junior QA engineer and Web3 enthusiast with a strong focus on automation, real-world testing, and crypto tools.  
-I specialize in Playwright-based UI testing, bot development, and manual QA for dApps and blockchain interfaces.
+Junior QA Automation Engineer focused on Web3 applications, UI testing, and real-world user flows.
+
+I build clean, structured test automation projects using Playwright and TypeScript, with strong attention to validation logic, edge cases, and user behavior.
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🚀 Featured Projects
 
+🔹 **Web3 Swap Automation (Main Project)**  
+https://github.com/Puchao64/qa-web3-swap-automation  
+End-to-end UI automation framework for a token swap interface. Covers swap flow, validations, UI state, and includes CI (GitHub Actions) + test reports.
+
+🔹 **ThetaSwap UI Automation (Playwright)**  
+https://github.com/Puchao64/qa-thetaswap-playwright  
+UI testing of swap interface with focus on core flows and interaction stability.
+
+🔹 **1inch Mobile E2E (Appium)**  
+https://github.com/Puchao64/1inch-mobile-e2e  
+Mobile end-to-end testing for crypto app flows using Appium.
+
+🔹 **Zealy UI Automation**  
+https://github.com/Puchao64/qa-zealy-autotest  
+Playwright automation for quest-based Web3 platform (navigation, UI validation, flows).
+
+🔹 **Telegram Trading Bot**  
+https://github.com/Puchao64/telegram-trading-bot  
+Node.js bot integrating CoinGecko API for crypto price tracking and basic trading simulation.
+
+---
+
+## 🧠 QA Focus
+
+- UI & E2E automation (Playwright)
+- Validation testing (edge cases, incorrect input, business logic)
+- Test scenario design (positive / negative flows)
+- UI state consistency & behavior
+- Manual QA for Web3 products (wallets, swaps, onboarding flows)
+
+---
+
+## 🛠 Tech Stack
+
+- Playwright + TypeScript
 - JavaScript (Node.js)
-- Playwright (E2E UI Testing)
-- Manual QA / Web3 Testing
-- Bug Reporting (Screenshots, Repro Steps, Markdown Docs)
-- Git / GitHub / Markdown / README structuring
-- Telegram Bot Development (command handling, APIs)
-- REST API Testing (Postman basics)
-- Wallets (MetaMask, Coinbase Wallet, RainbowKit)
-- Web3 platforms (Zealy, Transak, NFT/Bridge/Dapp UI)
-- Trading & Crypto Market Basics
-- CI understanding (GitHub Actions – beginner level)
-- Linux / macOS terminal usage
-
----
-## 🧩 Featured Projects
-
-🧪 [QA Test for Zealy UI](https://github.com/Puchao64/qa-zealy-autotest)  
-Full UI automation with Playwright: navigating quest pages, verifying elements, and capturing test flow screenshots.
-
-⚙️ [Telegram Trading Bot](https://github.com/Puchao64/telegram-trading-bot)  
-Simulates crypto trading in Telegram. Supports commands like `/price`, `/buy`, and `/news` using CoinGecko API.
-
-💳 [Transak Payment Flow Test](https://github.com/Puchao64/qa-transak-payment-test)  
-Deep manual QA case for fiat-to-crypto onboarding. Covers dropdown logic, input validation, and wallet connection UI.
-
-🔐 [Login UI Test (Java)](https://github.com/Puchao64/qa-the-internet-java-autotest)  
-Java + Selenium WebDriver + JUnit 5. Full automation for the-internet.herokuapp.com/login with screenshots.
-
-🧪 [Saucedemo UI Test (Python)](https://github.com/Puchao64/saucedemo-pytest-autotest)  
-Python + Selenium + Pytest. Covers login flow, cart operations, sorting, and full checkout. Includes 15 screenshot-backed test cases.
+- Selenium (Java / Python)
+- Appium (basic)
+- REST API testing (Postman)
+- Git / GitHub / CI (GitHub Actions)
 
 ---
 
-## 🛰️ Contacts
+## 🌐 Web3 Experience
 
-- Telegram: [@pu_chao](https://t.me/pu_chao)
-- Email: puchinin64@gmail.com
-- Location: Spain 
-
----
-
-## 📌 Goals
-
-I'm currently open to freelance and remote QA opportunities — manual or automated — especially in the Web3 space.  
-Focused on building a clean portfolio and delivering fast, accurate test coverage for crypto products.
+- Wallets: MetaMask, Coinbase Wallet
+- Platforms: Zealy, Transak, swap interfaces
+- Understanding of swap logic, slippage, validation rules
 
 ---
 
-Created for educational and portfolio purposes.
+## 📬 Contacts
+
+- LinkedIn: https://www.linkedin.com/in/artur-puchinin  
+- Telegram: https://t.me/pu_chao  
+- Email: puchinin64@gmail.com  
+- Location: Spain  
+
+---
+
+## 🎯 Current Goal
+
+Actively looking for a Junior QA Automation position (remote / Web3 preferred).  
+Focused on building reliable automation and improving test coverage for real products.
