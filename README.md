@@ -17,7 +17,7 @@ https://github.com/Puchao64/qa-thetaswap-playwright
 Playwright UI tests for the live ThetaSwap swap page: key elements render and the token search input stays stable with unexpected input. CI runs on Linux, macOS and Windows.
 
 🔹 **Mobile Web E2E (Appium + WebdriverIO)**  
-https://github.com/Puchao64/1inch-mobile-e2e  
+https://github.com/Puchao64/mobile-web-e2e-appium  
 Login-flow tests in Chrome on an Android emulator: valid login, invalid username, invalid password and empty fields. Page Object Model, Mocha.
 
 🔹 **SauceDemo UI Tests (Selenium + Pytest)**  
