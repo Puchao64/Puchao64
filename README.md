@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Artur Puchinin
 
-QA Automation Engineer focused on Web3 applications, UI testing, and real-world user flows.
+Junior QA Automation Engineer focused on web application testing, UI/E2E automation and real-world user flows, including Web3 interfaces.
 
-I build production-like test automation frameworks using Playwright and TypeScript, covering validation logic, edge cases, and swap flows.
+I build test suites with Playwright and TypeScript, use Page Object Model, design positive and negative scenarios with edge cases, and run tests in CI with GitHub Actions. I have also written Selenium tests in Python and Java.
 
 ---
 
@@ -10,19 +10,23 @@ I build production-like test automation frameworks using Playwright and TypeScri
 
 🔹 **Web3 Swap Automation (Main Project)**  
 https://github.com/Puchao64/qa-web3-swap-automation  
-End-to-end UI automation framework for a token swap interface. Covers swap flow, validations, UI state, and includes CI (GitHub Actions) + test reports.
+Playwright + TypeScript framework (17 tests, Page Object Model) for a React mock of a token-swap app built for the project. Covers token selection, amount input, MAX button, slippage, quotes, the review step and validation edge cases. Tests run in CI (GitHub Actions).
 
 🔹 **ThetaSwap UI Automation (Playwright)**  
 https://github.com/Puchao64/qa-thetaswap-playwright  
-Playwright-based UI automation for a Web3 swap interface, covering validation, edge cases, and cross-platform CI execution.
+Playwright UI tests for the live ThetaSwap swap page: key elements render and the token search input stays stable with unexpected input. CI runs on Linux, macOS and Windows.
 
-🔹 **1inch Mobile E2E (Appium)**  
+🔹 **Mobile Web E2E (Appium + WebdriverIO)**  
 https://github.com/Puchao64/1inch-mobile-e2e  
-Mobile E2E automation for a Web3 app using Appium, validating login flows and user interactions across platforms.
+Login-flow tests in Chrome on an Android emulator: valid login, invalid username, invalid password and empty fields. Page Object Model, Mocha.
+
+🔹 **SauceDemo UI Tests (Selenium + Pytest)**  
+https://github.com/Puchao64/saucedemo-pytest-autotest  
+15 Selenium tests in Python for an e-commerce demo: login, cart, sorting and checkout.
 
 🔹 **Zealy UI Automation**  
 https://github.com/Puchao64/qa-zealy-autotest  
-End-to-end UI automation for a Web3 quest platform using Playwright, covering navigation, validation, and user flows.
+Playwright UI tests for the Zealy Web3 quest platform.
 
 🔹 Telegram Trading Bot  
 https://github.com/Puchao64/telegram-trading-bot  
@@ -44,9 +48,9 @@ Node.js bot for crypto price tracking and trading simulation using CoinGecko API
 
 - Playwright + TypeScript
 - JavaScript (Node.js)
-- Selenium (Java / Python)
+- Selenium (Python / Java, basics)
 - Appium (basic)
-- REST API testing (Postman)
+- API testing basics (Postman)
 - Git / GitHub / CI (GitHub Actions)
 
 ---
@@ -70,5 +74,5 @@ Node.js bot for crypto price tracking and trading simulation using CoinGecko API
 
 ## 🎯 Current Goal
 
-Actively looking for a Junior QA Automation position (remote / Web3 preferred).  
+Actively looking for a Junior QA Automation position (remote).  
 Focused on building reliable automation and improving test coverage for real products.
